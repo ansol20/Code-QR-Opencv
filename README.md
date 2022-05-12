@@ -8,4 +8,4 @@
 
 > Si ya escaneo una vez en la siguiente, valida el estado y marca como no autorizado.
 
-![No Autorizado] (https://ibb.co/y6vs3Jm)
+![No Autorizado] (https://i.ibb.co/y6vs3Jm/qr-noautorizado.png)
